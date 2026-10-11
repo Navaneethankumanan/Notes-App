@@ -111,24 +111,18 @@ From study notes and task management to grocery checklists, scheduled reminders,
 
 ---
 
-## 📈 Project Status
+## 📈 Impact
 
-**Completed:** Initial project foundation, Firebase integration, authentication flow, dashboard and note-creation UI, and demonstrated Firestore profile and note saving.
+Notes App aims to transform everyday note-taking into a **unified personal productivity experience**.
 
-**In Progress:** Integrated screen verification, complete note CRUD operations, search and filtering validation, and core notes management.
+By bringing notes, tasks, grocery lists, reminders, and personal ideas into one organized workspace, it aims to reduce information fragmentation and help users stay focused on what matters.
 
-**Planned:** Grocery lists, smart reminders, rich attachments, related notes, timeline, private-note protection, and enhanced offline support.
-
-The project is being developed incrementally, with the goal of delivering a reliable and polished Android productivity application.
+With its long-term vision of connected notes, timeline-based memories, and cloud-backed access, Notes App seeks to make **capturing thoughts, managing daily activities, and remembering important moments** simpler and more organized.
 
 ---
 
 ## 🔍 Project Access
-
-- 📄 **Project Overview:** You are viewing the project documentation.
-- 🔒 **Source Code:** Repository link to be added when available.
-- 📸 **Screenshots / Demo:** To be added after the relevant screens are verified.
-
+- 🔒 Private repository  
+- 📄 Detailed walkthrough or demo available **on request**
 ---
 
-*Developed by Navaneethan K | Java • Android XML • Firebase*
